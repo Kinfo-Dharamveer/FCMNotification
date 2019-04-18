@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FCMNotification</string>
+    <string name="dummy_text">Your Message</string>
+    <string name="ok">OK</string>
+    <string name="msg_subscribed">msg_sub</string>
+    <string name="msg_subscribe_failed">msg_sub_failed</string>
+
+
+</resources>

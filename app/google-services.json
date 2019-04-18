@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "797524340895",
+    "firebase_url": "https://fcmnotification-ebbee.firebaseio.com",
+    "project_id": "fcmnotification-ebbee",
+    "storage_bucket": "fcmnotification-ebbee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797524340895:android:68aca912be02e825",
+        "android_client_info": {
+          "package_name": "com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797524340895-94r0e4c2llbijhpcifmmdnp95ttjncdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapplication",
+            "certificate_hash": "aef8453e48137ef71fce05d1e6646e614e2e8869"
+          }
+        },
+        {
+          "client_id": "797524340895-k0acr271nh8eajqcjd5rcslvmfb9gtqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCudSS9-bAgbVVowCuqaUSNt6QBsbOqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797524340895-k0acr271nh8eajqcjd5rcslvmfb9gtqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
